@@ -1,0 +1,121 @@
+Title,Link,Date 
+Enhancing Web Applications with VueJs,https://west-wind.com/wconnect/weblog/ShowEntry.blog?id=957,February 7th 2020 
+Deploying and Configuring West Wind Web Connection Applications,https://west-wind.com/wconnect/weblog/ShowEntry.blog?id=956,December 3rd 2019 
+Building a Live Reload Middleware Component for ASP.NET Core,https://weblog.west-wind.com/posts/2019/Jun/03/Building-Live-Reload-Middleware-for-ASPNET-Core,June 10th 2019 
+ASP.NET Core In Process Hosting on IIS with ASP.NET Core 2.2,https://weblog.west-wind.com/posts/2019/Mar/16/ASPNET-Core-Hosting-on-IIS-with-ASPNET-Core-22,June 3rd 2019 
+Using .NET Standard with Full Framework .NET,https://weblog.west-wind.com/posts/2019/Feb/19/Using-NET-Standard-with-Full-Framework-NET,February 19th 2019 
+COM Object Access and dynamic in .NET Core 2.x,https://weblog.west-wind.com/posts/2019/Jan/22/COM-Object-Access-and-dynamic-in-NET-Core-2x,January 22nd 2019 
+A Visual Studio to Visual Studio Code Snippet Converter,https://weblog.west-wind.com/posts/2019/Jan/14/A-Visual-Studio-to-Visual-Studio-Code-Snippet-Converter,January 14th 2019 
+Creating a .NET Global Tool from an existing Console Application,https://weblog.west-wind.com/posts/2018/Nov/05/Creating-a-NET-Global-Tool-from-an-existing-Console-Application,November 5th 2018 
+Marking up the World with Markdown and FoxPro,https://west-wind.com/wconnect/weblog/ShowEntry.blog?id=946,October 30th 2018 
+Marking up the Web with ASP.NET Core and Markdown,https://www.codemag.com/Article/1811071/Marking-up-the-Web-with-ASP.NET-Core-and-Markdown,July 1st 2018 
+Web Assembly and Blazor: Re-assembling the Web,https://weblog.west-wind.com/posts/2018/Jul/31/Web-Assembly-and-Blazor-Reassembling-the-Web,June 31st 2018 
+Securing IIS Web Sites with Let’s Encrypt Certificates,https://weblog.west-wind.com/posts/2017/Dec/26/Code-Magazine-Article-Securing-IIS-Web-Sites-with-Lets-Encrypt-Certificates,December 26th 2017 
+Easy Configuration Binding in ASP.NET Core - revisited,https://weblog.west-wind.com/posts/2017/Oct/22/NET-Core-20-and-ASPNET-20-Core-are-finally-here,December 12th 2017 
+Flexing Your HTML Layout Muscles with Flexbox,https://weblog.west-wind.com/posts/2017/Nov/11/Flexing-your-HTML-Layout-Muscles-with-Flexbox,November 11th 2017 
+.NET Core 2.0 and ASP.NET Core 2.0 are Here,https://weblog.west-wind.com/posts/2017/Oct/22/NET-Core-20-and-ASPNET-20-Core-are-finally-here,October 22nd 2017 
+Advanced Scenarios for using the Web Browser Control in Visual FoxPro,https://bitbucket.org/RickStrahl/swfox_webbrowser/raw/master/Documents/Strahl_WebBrowser.pdf,October 20th 2017 
+Using the Real Time Web with SignalR and Visual FoxPro,https://bitbucket.org/RickStrahl/swfox16_signalr,October 20th 2017 
+Accepting Raw Request Body Content in ASP.NET Core API Controllers,https://weblog.west-wind.com/posts/2017/Sep/14/Accepting-Raw-Request-Body-Content-in-ASPNET-Core-API-Controllers,September 13th 2017 
+Building a Literal Markdown Control for ASP.NET WebForms,https://weblog.west-wind.com/posts/2017/Sep/13/A-Literal-Markdown-Control-for-ASPNET-WebForms,September 13th 2017 
+Multi-Targeting and Porting a .NET Library to .NET Core 2.0,https://weblog.west-wind.com/posts/2017/Jun/22/MultiTargeting-and-Porting-a-NET-Library-to-NET-Core-20,June 22nd 2017 
+Bypassing IIS Error Messages in ASP.NET,https://weblog.west-wind.com/posts/2017/Jun/01/Bypassing-IIS-Error-Messages-in-ASPNET,June 1st 2017 
+IIS and ASP.NET Core Rewrite Rules for Static Files and Html 5 Routing,https://weblog.west-wind.com/posts/2017/Apr/27/IIS-and-ASPNET-Core-Rewrite-Rules-for-AspNetCoreModule,April 27th 2017 
+Running .NET Core Apps under Windows Subsystem for Linux (Bash for Windows),https://weblog.west-wind.com/posts/2017/Apr/13/Running-NET-Core-Apps-under-Windows-Subsystem-for-Linux-Bash-for-Windows,April 13th 2017 
+More on Running ASP.NET Core under IIS,https://weblog.west-wind.com/posts/2017/Mar/16/More-on-ASPNET-Core-Running-under-IIS,March 16th 2017 
+Getting down to Business with ASP.NET Core,https://weblog.west-wind.com/posts/2017/Jan/12/New-CODE-Magazine-Article-Getting-down-to-Business-with-ASPNET-Core,January 12th 2017 
+Creating a portable and embedded Chocolatey Package,https://weblog.west-wind.com/posts/2017/Jan/29/Creating-a-portable-and-embedded-Chocolatey-Package,January 29th 2017 
+.NET Standard 2.0 - Making Sense of .NET Again,https://weblog.west-wind.com/posts/2016/Nov/23/NET-Standard-20-Making-Sense-of-NET-Again,November 23rd 2016 
+Getting to the ASP.NET Core,http://www.codemag.com/Article/1609071,October 20th 2016 
+Error Handling and ExceptionFilter Dependency Injection for ASP.NET Core APIs,https://weblog.west-wind.com/posts/2016/Oct/16/Error-Handling-and-ExceptionFilter-Dependency-Injection-for-ASPNET-Core-APIs,October 16th 2016 
+10 Cool Examples of using .NET and wwDotnetBridge with Visual FoxPro,https://bitbucket.org/RickStrahl/swfox16_wwdotnetbridge_10uses/raw/master/Documents/Strahl_wwdotnetBridge_10Uses.pdf,September 24th 2016 
+Using Angular 2.0 and Web Connection to create Mobile Web Applications,https://bitbucket.org/RickStrahl/swfox16_mobilewebangular/raw/master/Documents/Strahl_MobileWebAngular2.pdf,September 24th 2016 
+First Steps: Exploring .NET Core and ASP.NET Core,https://weblog.west-wind.com/posts/2016/Jun/29/First-Steps-Exploring-NET-Core-and-ASPNET-Core,June 29th 2016 
+ASP.NET Core and .NET Core Overview,https://weblog.west-wind.com/posts/2016/Jun/13/ASPNET-Core-and-NET-Core-Overview,June 23rd 2016 
+Publishing and Running ASP.NET Core Applications with IIS,https://weblog.west-wind.com/posts/2016/Jun/06/Publishing-and-Running-ASPNET-Core-Applications-with-IIS,June 6th 2016 
+Using Let's Encrypt with IIS on Windows,https://weblog.west-wind.com/posts/2016/Feb/22/Using-Lets-Encrypt-with-IIS-on-Windows,April 3rd 2016 
+Using Let's Encrypt with IIS on Windows,https://weblog.west-wind.com/posts/2016/Feb/22/Using-Lets-Encrypt-with-IIS-on-Windows,February 22nd 2016 
+A small jQuery Resizable Plug-in,https://weblog.west-wind.com/posts/2015/Dec/21/A-small-jQuery-Resizable-Plugin,December 21st 2015 
+Creating and Consuming FoxPro Web Services using .NET,https://west-wind.com/presentations/CreatingAndConsumingFoxProWebServicesWithDotNet.pdf,October 29th 2015 
+Rebooting Database Localization for ASP.NET with West Wind Globalization 2.0,https://weblog.west-wind.com/posts/2015/Jun/23/Rebooting-Database-Localization-for-ASPNET-with-West-Wind-Globalization-20,June 23rd 2015 
+Strongly typed AppSettings Configuration in ASP.NET 5,https://weblog.west-wind.com/posts/2015/Jun/03/Strongly-typed-AppSettings-Configuration-in-ASPNET-5,June 3rd 2015 
+Adding minimal OWIN Identity Authentication to an Existing ASP.NET MVC Application,https://weblog.west-wind.com/posts/2015/Apr/29/Adding-minimal-OWIN-Identity-Authentication-to-an-Existing-ASPNET-MVC-Application,April 29th 2015 
+Creating and Consuming FoxPro Web Services with .NET,https://west-wind.com/presentations/FoxDotNetWebServices/FoxProWebServices.pdf,October 20th 2015 
+Using FontAwesome Fonts for HTML Radio Buttons and Checkboxes,https://weblog.west-wind.com/posts/2015/Feb/26/Using-FontAwesome-Fonts-for-HTML-Radio-Buttons-and-Checkboxes,February 10th 2015 
+Back to Basics: UTC and TimeZones in .NET Web Apps,http://weblog.west-wind.com/posts/2015/Feb/10/Back-to-Basics-UTC-and-TimeZones-in-NET-Web-Apps,February 10th 2015 
+Using Cordova and Visual Studio to build iOS Mobile Apps,http://weblog.west-wind.com/posts/2015/Jan/06/Using-Cordova-and-Visual-Studio-to-build-iOS-Mobile-Apps,January 12nd 2015 
+A First Look at ASP.NET vNext,http://www.codemag.com/Article/1501081,January 2nd 2015 
+ASP.NET vNext: The Next Generation,http://www.codemag.com/Article/1501061,January 2nd 2015 
+Creating multi-target NuGet Packages with vNext,http://weblog.west-wind.com/posts/2014/Dec/02/Creating-multitarget-NuGet-Packages-with-vNext,December 2nd 2014 
+The broken Promise of the Mobile Web,http://weblog.west-wind.com/posts/2014/Aug/18/The-broken-Promise-of-the-Mobile-Web,August 18th 2014 
+Using FiddlerCore to capture HTTP requests with .NET,http://weblog.west-wind.com/posts/2014/Jul/29/Using-FiddlerCore-to-capture-HTTP-Requests-with-NET,July 29th 2014 
+A dynamic RequireSsl Attribute for ASP.NET MVC,http://weblog.west-wind.com/posts/2014/Jun/18/A-dynamic-RequireSsl-Attribute-for-ASPNET-MVC,June 18th 2014 
+Creating ASP.NET MVC Negotiated Content Results,http://weblog.west-wind.com/posts/2014/May/12/Filtering-List-Data-with-a-jQuerysearchFilter-Plugin,May 20th 2014 
+Filtering List Data with a jQuery-searchFilter Plugin,http://weblog.west-wind.com/posts/2014/May/12/Filtering-List-Data-with-a-jQuerysearchFilter-Plugin,May 10th 2014 
+Auto Selecting Cultures for Localization in ASP.NET,http://weblog.west-wind.com/posts/2014/Mar/27/Auto-Selecting-Cultures-for-Localization-in-ASPNET,March 27th 2014 
+Using CSS Transitions to SlideUp and SlideDown,http://weblog.west-wind.com/posts/2014/Feb/22/Using-CSS-Transitions-to-SlideUp-and-SlideDown,March 27th 2014 
+Accepting Raw Request Body Content with ASP.NET Web API,http://weblog.west-wind.com/posts/2013/Dec/13/Accepting-Raw-Request-Body-Content-with-ASPNET-Web-API,December 13th 2014 
+Use IIS Application Initialization for keeping ASP.NET Apps alive,http://weblog.west-wind.com/posts/2013/Oct/02/Use-IIS-Application-Initialization-for-keeping-ASPNET-Apps-alive,October 2nd 2013 
+Self Hosting SignalR in a Windows Service,http://weblog.west-wind.com/posts/2013/Sep/04/SelfHosting-SignalR-in-a-Windows-Service,September 22nd 2013 
+A first look at ASP.NET SignalR,http://weblog.west-wind.com/posts/2013/May/22/A-first-look-at-SignalR,May 22nd 2013 
+A WebAPI Basic Authentication Authorization Filter,http://weblog.west-wind.com/posts/2013/Apr/18/A-WebAPI-Basic-Authentication-Authorization-Filter,April20th 2013 
+Using plUpload to upload Files with ASP.NET,http://weblog.west-wind.com/posts/2013/Mar/12/Using-plUpload-to-upload-Files-with-ASPNET,March12th 2013 
+Building a better .NET Application Configuration Class,http://weblog.west-wind.com/posts/2012/Dec/28/Building-a-better-NET-Application-Configuration-Class-revisited,December 28th 2012 
+WCF WS-Security and WSE Nonce Authentication,http://weblog.west-wind.com/posts/2012/Nov/24/WCF-WSSecurity-and-WSE-Nonce-Authentication,November 24th 2012 
+Using JSON.NET for dynamic JSON parsing,http://weblog.west-wind.com/posts/2012/Aug/30/Using-JSONNET-for-dynamic-JSON-parsing,August 30 2012 
+An Introduction to ASP.NET Web API,http://weblog.west-wind.com/posts/2012/Aug/21/An-Introduction-to-ASPNET-Web-API,August 19 2012 
+Creating STA COM Components in ASP.NET,http://weblog.west-wind.com/posts/2012/Sep/18/Creating-STA-COM-compatible-ASPNET-Applications,August 15 2012 
+Calling .NET Components from Visual FoxPro using wwDotnetBridgewwDotnetBridge library,http://www.west-wind.com/presentations/wwDotnetBridgeComInterop.pdf,October 25 2012 
+Calling FoxPro COM Components from ASP.NET Revisited,http://www.west-wind.com/presentations/AspNetFoxProRevisited.pdf,October 25 2012 
+.NET HTML Sanitation for rich HTML Input,http://weblog.west-wind.com/posts/2012/Jul/19/NET-HTML-Sanitation-for-rich-HTML-Input,July 19 2012 
+Accessing Spatial Data with SQL Server and Entity Framework 5.0,http://weblog.west-wind.com/posts/2012/Jun/21/Basic-Spatial-Data-with-SQL-Server-and-Entity-Framework-50,June 20 2012 
+Rendering ASP.NET Views to String,http://weblog.west-wind.com/posts/2012/May/30/Rendering-ASPNET-MVC-Views-to-String,May 30th 2012 
+Creating JSONP Formatter for ASP.NET Web API,http://weblog.west-wind.com/posts/2012/Apr/02/Creating-a-JSONP-Formatter-for-ASPNET-Web-API,April 2nd 2012 
+Creating a dynamic extensible C# Expando Object,http://weblog.west-wind.com/posts/2012/Feb/08/Creating-a-dynamic-extensible-C-Expando-Object,May 30th 2012 
+Using the HTML5 <input type="file" multiple="multiple"> Tag in ASP.NET,http://weblog.west-wind.com/posts/2012/Mar/06/Using-the-HTML5-input-typefile-multiplemultiple-Tag-in-ASPNET,March 6th 2012 
+Debugging Application_Start and Module Initialization with IIS and Visual Studio ,http://weblog.west-wind.com/posts/2011/Dec/15/Debugging-ApplicationStart-and-Module-Initialization-with-IIS-and-Visual-Studio,December 15 2011 
+A Key Code Checker for DOM Keyboard Events,http://weblog.west-wind.com/posts/2011/Dec/08/A-Key-Code-Checker-for-DOM-Keyboard-Events,December6th 2011 
+Creating a Dynamic DataReader for easier Property Access,http://weblog.west-wind.com/posts/2011/Dec/06/Creating-a-Dynamic-DataReader-for-easier-Property-Access,December3rd 2011 
+jQuery Time Entry with Time Navigation Keys,http://weblog.west-wind.com/posts/2011/Nov/30/jQuery-Time-Entry-with-Time-Navigation-Keys,November 30th 2011 
+Using the West Wind Web Toolkit to set up AJAX and REST Services ,http://weblog.west-wind.com/posts/2011/Nov/03/Using-the-West-Wind-Web-Toolkit-to-set-up-AJAX-and-REST-Services,November 3rd 2011 
+Create Side by Side registrationless COM Manifests with Visual Studio ,http://weblog.west-wind.com/posts/2011/Oct/09/An-easy-way-to-create-Side-by-Side-registrationless-COM-Manifests-with-Visual-Studio,October 9th 2011 
+An Xml Serializable PropertyBag Dictionary Class for .NET,http://weblog.west-wind.com/posts/2011/Sep/27/An-Xml-Serializable-PropertyBag-Dictionary-Class-for-NET,October 9th 2011 
+Web Browser Control – Specifying the IE Version,http://weblog.west-wind.com/posts/2011/May/21/Web-Browser-Control-Specifying-the-IE-Version,May 21st 2011 
+Custom ASP.NET Routing to an HttpHandler,http://weblog.west-wind.com/posts/2011/Mar/28/Custom-ASPNET-Routing-to-an-HttpHandler,March 28th 2011 
+A jQuery Plug-in to monitor Html Element CSS Changes ,http://weblog.west-wind.com/posts/2011/Feb/22/A-jQuery-Plugin-to-monitor-Html-Element-CSS-Changes,Feb. 22nd 2011 
+Hosting the Razor Engine for Templating in Non-Web applications,http://weblog.west-wind.com/posts/864461.aspx,December 28 2010 
+Making Sense of ASP.NET Paths,http://weblog.west-wind.com/posts/132081.aspx,January 10 2010 
+A free standing ASP.NET Pager Web Control,http://weblog.west-wind.com/posts/114621.aspx,December 18 2009 
+Capturing and Transforming ASP.NET Output with Response.Filter,http://weblog.west-wind.com/posts/72596.aspx,November 13th 2009 
+Integrating OpenID in an ASP.NET MVC Application using DotNetOpenAuth,http://weblog.west-wind.com/posts/899303.aspx,September 17th 2009 
+Making jQuery Calls to WCF/ASMX with a ServiceProxy Client,http://weblog.west-wind.com/posts/896411.aspx,September 10th 2009 
+WPF Localization Guidance,http://wpflocalization.codeplex.com/,July 1st 2009 
+Creating Visual Studio Project Templates from your Web Projects,http://weblog.west-wind.com/posts/740022.aspx,April 27 2009 
+A.closeable Plug-in for jQuery,http://weblog.west-wind.com/posts/719383.aspx,April 14 2009 
+Using Enums in ASP.NET List Controls,http://weblog.west-wind.com/posts/632732.aspx,February 20 2009 
+Monitoring HTTP Output with Fiddler in .NET Clients and Proxies,http://weblog.west-wind.com/posts/596348.aspx,January 14th 2009 
+jQuery and ASP.NET (Part 2: Making Ajax Callbacks to ASP.NET),http://www.west-wind.com/presentations/jQuery/jQueryPart2.aspx,December 3 2008 
+An Introduction to jQuery (Part 1: The Client Side),http://www.west-wind.com/presentations/jQuery/default.aspx,December 3 2008 
+Digitally signing and validating an XML Document,http://weblog.west-wind.com/posts/257599.aspx,March 1 2008 
+Setting up and running Subversion and Tortoise SVN,http://www.west-wind.com/presentations/subversion/,August 9 2007 
+Creating a data driven ASP.NET Resource Provider & Editor,http://www.west-wind.com/presentations/wwDbResourceProvider/,July 7 2007 
+Introduction to Localization in ASP.NET 2.0,http://www.west-wind.com/presentations/wwDbResourceProvider/introtolocalization.aspx,July 2 2007 
+Create aScreen Capture Plugin for Windows Live Writer,http://weblog.west-wind.com/posts/30318.aspx,March 25 2007 
+Calling and Hosting FoxPro Web Services through .NET,http://www.west-wind.com/presentations/foxdotnetwebservices/,January 9th 2007 
+Creating atwo-way data binding Extender Control for ASP.NET 2.0,http://msdn.microsoft.com/msdnmag/issues/06/12/ExtendASPNET/default.aspx?loc=en,November 15 2006 
+Integrating Electronic Payment Processing into ASP.NET,http://www.west-wind.com/presentations/aspnetecommerce/aspnetecommerce.html,April 11th 2006 
+Advanced FoxPro COM Interop Article SeriesPassing objects between FoxPro and .NET COM ComponentsHandling .NET Events in FoxPro via COM InteropCreating multi-threaded components for COM Interop,#,December 26th 2005 
+A low-level Look at the ASP.NET Architecture,http://www.west-wind.com/presentations/howaspnetworks/howaspnetworks.html,July 18th 2006 
+Building a better Application Configuration Settings Class,http://www.west-wind.com/weblog/posts/2012/Dec/28/Building-a-better-NET-Application-Configuration-Class-revisited,July 18th 2006 
+Using Unicode in Visual FoxPro Web and Desktop Applications,http://www.west-wind.com/presentations/foxunicode/foxunicode.html,July 18th 2006 
+PayPal Integration into e-Commerce Solutions with ASP.NET,/presentations/PayPalIntegration/PayPalIntegration.html,September 19th 2004 
+Calling .Net Web Services for Data Access from Visual FoxPro ,http://www.west-wind.com/presentations/foxpronetwebservices/foxpronetwebservices.html,July 7th 2004 
+Building a Web XML Data Service with Visual FoxPro ,http://www.west-wind.com/presentations/foxWebDataService/foxwebdataservice.html,March 5th 2004 
+Using the Shell API and Internet Explorer Components with VFP,/presentations/shellapi/shellapi.html,August 8th 2003 
+Web Farming with Network Load Balancing in Windows Server 2003,/presentations/loadbalancing/NetworkLoadBalancingWindows2003.html,June 4th 2003 
+Using the ASP.Net Runtime for Scripting in Desktop Applications,/presentations/aspnetruntime/aspnetruntime.aspx,June 4th 2003 
+Creating a custom Statusbar Control in Visual FoxPro,/presentations/wwStatusBar/wwStatusBar.asp,April 20th 2003 
+Using .NET Components via COM from Visual FoxPro,presentations/VfpDotNetInterop/DotNetFromVFP.asp,January 2nd 2003 
+Calling VFP COM components from ASP.NET,http://www.west-wind.com/presentations/VfpDotNetInterop/aspcominterop.aspx,January 1st 2003 
+.NET Interop for Visual FoxPro,/presentations/VfpDotNetInterop/vfpDotNetInterop.htm,Sept. 23 2002 
+Dynamically executing code in .NET,/presentations/DynamicCode/DynamicCode.htm,Sept. 8th 2002 
